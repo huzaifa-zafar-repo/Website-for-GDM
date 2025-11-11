@@ -17,14 +17,13 @@ It highlights the agency’s work, services, and team in a visually engaging for
 - ✅ Fully responsive layout (mobile, tablet & desktop)  
 - ✅ Fast loading and SEO-friendly  
 - ✅ Interactive UI with smooth animations  
-- ✅ Portfolio and services showcase  
-- ✅ Contact form for client inquiries  
+- ✅ Portfolio and services showcase 
 
 ---
 
 ## 💻 Technologies Used
 - **HTML5** – Structure and layout  
-- **CSS3 / Tailwind / SCSS** – Styling and responsiveness  
+- **CSS3 / Tailwind** – Styling and responsiveness  
 - **JavaScript/React (Vanilla / Vite.js)** – Interactivity  
 - **Netlify** – Hosting and deployment  
 
