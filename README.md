@@ -2,7 +2,7 @@
 
 A modern, fully responsive **Designing Agency** website built to showcase creative services, portfolio, and client engagement — all in a sleek, professional layout.
 
-🔗 **Live Demo:** [https://delicate-bavarois-1a06dc.netlify.app/](https://delicate-bavarois-1a06dc.netlify.app/)
+🔗 **Live Demo:** (https://global-dmart.netlify.app/)
 
 ---
 
@@ -32,7 +32,7 @@ It highlights the agency’s work, services, and team in a visually engaging for
 ## 🚀 Deployment
 This project is deployed using **Netlify**.  
 You can view the live website here:  
-👉 [https://delicate-bavarois-1a06dc.netlify.app/](https://delicate-bavarois-1a06dc.netlify.app/)
+👉 https://global-dmart.netlify.app/
 
 To deploy your own version:
 1. Fork this repository  
